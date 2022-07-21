@@ -15,6 +15,7 @@ public class DataType1 {
         char G=8;
         char g=9;
 
+        System.out.println("java data type examples");
         //use integer datatype
         System.out.println("Integer Datatype Example");
         System.out.println("sum of A+a="+(A+a));  //300
