@@ -4,6 +4,7 @@ public class JavaOperations {
 
         int A=40;
         int B=60;
+        System.out.println("java operation examples");
         System.out.println("sum of A&B="+((A+B)));      //100
         System.out.println("sub of A&B="+((A-B)));   //-20
         System.out.println("div of A&B="+((A/B)));    //0.666666
